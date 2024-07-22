@@ -1,6 +1,8 @@
 # Tutorial for running basic Icepack installation at the School on Polar Climates (22/07/2024, Trieste, Italy) 
 
-You are in luck! Icepack is an amazing modelling tool with fantastic documentation and support. Everything you want to know about the model is contained in the icepack documentation. This includes information on how to install, compile, and run the model, plus a lot of details on the physics implemented in it. The table of contents of the icepack documentation can be found [**HERE**](https://cice-consortium-icepack.readthedocs.io/en/main/index.html)  
+You are in luck! Icepack is an amazing modelling tool with fantastic documentation and support. Everything you want to know about the model is contained in the icepack documentation. This includes information on how to install, compile, and run the model, plus a lot of details on the physics implemented in it. The table of contents of the icepack documentation can be found [**HERE**](https://cice-consortium-icepack.readthedocs.io/en/main/index.html).
+
+Some of the material I am using for introducing sea ice and Icepack in this first day of projects is taken from this fantastic presentation by Elizabeth Hunke and David Bailey. You can download the presentation from this [**Zenodo repository**](https://zenodo.org/records/11264197).
 
 ## STEP ONE – Configure Icepack Git repository
 

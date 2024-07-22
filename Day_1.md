@@ -35,3 +35,5 @@ If you have never worked with NetCDF, here is some information on the basic conc
 - **Archivable.** Access to all earlier forms of netCDF data will be supported by current and future versions of the software.
 
 So, how do we get some netCDF output in Icepack? The basics can be found on [**this subsection of the documentation**](https://cice-consortium-icepack.readthedocs.io/en/main/user_guide/ug_implementation.html#history-files). Give it a go, and hopefully you will get some NetCDF output to look at in a few minutes.
+
+## STEP FIVE – Different forcings for different problems. Running the model with ERA5.
